@@ -66,3 +66,5 @@ Team Member Signatures:
 Kate Richardson
 
 Thanika Haltrich
+
+Purnima Chhetri
