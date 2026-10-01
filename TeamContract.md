@@ -65,6 +65,5 @@ Team Member Signatures:
 
 Kate Richardson
 Sophia Iannuzzi
-
-
+Thanika Haltrich
 Zhaniya Mukhtarbek
