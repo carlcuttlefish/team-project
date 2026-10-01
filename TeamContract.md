@@ -18,44 +18,49 @@ This contract sets out shared expectations and commitments for how our team will
 
 ### Communication
 
-* Which platform will you use for communication outside of class, when required for work on your course project? (Examples: Text message, Discord, WeChat, etc.)
+* (MEANS OF COMMUNICATION) We will be using WhatsApp to connect about the team project. Will also have discord as a second means of communication for virtual meetings.
 
-* Each teammate agrees to respond to messages in at most how long? 1 day? 2 days? Some other amount of time? 
+* (WHEN TO RESPOND) 2 days when we are not near a deadline. ASAP when close to a deadline
 
-* What things should a teammate notify you about? (Examples: if they think they won't be able to meet a deadline, if they have to miss lecture, etc.)
+* (WHAT TO WRITE IN GC)Teammates should communicate about when they are missing lectures/tutorials, when they are setting up meetings, if unsure about someone's code (that they will be using), if they can't make a deadline, when they need help, or in an instance where they feel they need to communicate with the team immediately. We should also push our code to main after people have review the code. We should also add comments to the code.
 
-* Respectful and inclusive behaviour are necessary for smooth and productive communication. What are some respectful and inclusive behaviours you expect when communicating with each other during lectures, labs, or outside of class? (Examples: Actively listening to each team members ideas, giving everyone a chance to meaningfully contribute, etc.)
+* (RESPECT GUIDELINES) Actively listening to each team members ideas, giving everyone a chance to meaningfully contribute, do work on time, be transparent about your work, be quiet during class, stay on topic, generally respect, having conversations if something arrises.
 
 ---
 
 ### [Other Categories of norms and expectations go here]
 
 * Based on your previous teamwork experiences, what other behaviours do you agree upon as a team?
-    - some examples of possible additional team norms and expectations are included in the sample team contract in case your team needs some help getting ideas for what else you want to include.
+    - No vibe coding
+    - Meetings once a week (pref) to come up with internal deadlines, share progress, and help with code if needed
+    - AI usage: Preference for no AI. No copy pasting code into the project -- ok for helping debugging
+    - If using AI please log either in chat or if needed we can AI usage sheet we can make.
+    - Can use in CV as code project
+
 
 ---
 
 ## Decision Making
 
-* How will decisions about your team project be made? (Examples: By majority vote, by unanimous vote, etc.)
+* By majority vote
 
 ---
 ## Conflict resolution
 
-* How will your team resolve conflicts? (Example: by listening to each other's side of the issue and attempting to reach a compromise. By consulting a TA or instructor as a team, if a resolution has not yet been reached.)
+* (CONFLICT RESOLUTION) If issue is one person is not doing work, then we talk to them and if no resolution can be found we can go to the TA. If there are other forms of disputes, individuals should try to have a conversation to come up with a conpromise/solution. If really needed we can rework role distribution.
 
 ---
 
 ## Accountability
 
-* Reliability and accountability are also important aspects of teamwork. What are the responsibilities of each team member? (Example: completing their share of the work in a timely manner, seeking assistance from teammates/TAs/instructors when required, etc.)
+* We are all aiming to do as best in the course as we can so this hopefully should be easy. We all aim to distribute work evenly and complete that work at a high quality. We also are including internal deadlines. We want to do final merges at least two days before the external deadline.
 
 ---
 
 ---
 
-By signing below, we acknowledge that we have read, discussed, and agreed to these terms. We understand that this contract is binding for the duration of the course and may be revised with the agreement of all team members.
+By signing below, we acknowledge that we have read, discussed, and agreed to these terms. We understand that this contract is binding for the duration of the course and may be revised with the agreement of all team members. Be responsive as per guidelines above.
 
 Team Member Signatures:
 
-(type names here)
+Kate Richardson
