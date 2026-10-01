@@ -66,6 +66,5 @@ Team Member Signatures:
 Kate Richardson
 Sophia Iannuzzi
 Thanika Haltrich
-
 Purnima Chhetri
 Zhaniya Mukhtarbek
