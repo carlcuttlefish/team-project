@@ -71,18 +71,18 @@ Zhaniya Mukhtarbek
 
 As a user,
 
-I want to track my moods (days to feel motivation) so that can gain an understanding of how my moods change throughout the day/week to plan better.
+I want to track my moods (days to feel motivation) so that we can gain an understanding of how my moods change throughout the day/week to plan better.
 
-As a user of this wellness app, I would like the app to predict my peak productivity time
+I want to do some cognitive tests so that I can predict my peak productivity time.
 
-As a user of this wellness app, I want to do some cognitive tests.
+I want these cognitive tests to not be time-consuming.
 
-Rate your productivity after each session
+I want to be able to rate my productivity after each session/task I complete and do so that I can keep track of myself.
 
-As a user, I want to do these activities to improve my cognitive abilities
+I want to be able to do activities () so that I can improve my cognitive abilities.
 
-As a researcher, I want to collect data what factors affects user’s cognitive tests
+As a researcher, 
 
-As a user, I want these tests to not be time consuming
+I want to collect data what factors affects a user’s cognitive tests so that we can understand why and how to improve.
 
-I want our data predicting some outcome. (what affects you)
+I want our data predicting some outcome.
