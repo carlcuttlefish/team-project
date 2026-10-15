@@ -71,21 +71,20 @@ Zhaniya Mukhtarbek
 
 As a user,
 
-I want to track my moods (days/time/week/month/year) so that we can gain an understanding of how my moods change throughout to plan better.
-
-I want to be able to rate my productivity after each session/task I complete and do so that I can keep track of myself.
-
-I want to do some cognitive tests so that I can understand my peak productivity time, and understand my
+I want to do cognitive tests so that I can understand my peak productivity time, understand my
 Remembering, Thinking, Reasoning, Learning, Judgement, Decision-making, Attention skills.
 
-I want to look at my cognitive test results and know what it shows and if there is any problem.
+I want to be able to input user data; input my moods (days/time/week/month/year) and rating my productivity etc so that 
+I can track them
 
-I want these cognitive tests to not be time-consuming.
+As a researcher,
 
-I want to be able to do activities () so that I can improve my cognitive abilities.
+I want to implement cognitive tests using an external API and not make it repetitive and time-consuming for the 
+user to attempt to do so that they can understand their skills
 
-As a researcher, 
+I want to collect data from a user’s cognitive tests so that we can see trends and patterns, understand why and give 
+advice on how to improve.
 
-I want to collect data what factors affects a user’s cognitive tests so that we can understand why and how to improve.
+I want to create a user-friendly UI for the app (giving notifications, looking at test results, doing tests) so 
+that the user does not find it hard to use the app
 
-I want our data predicting some kind of pattern/trend.
